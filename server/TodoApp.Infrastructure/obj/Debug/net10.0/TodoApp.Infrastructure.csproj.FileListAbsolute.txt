@@ -1,0 +1,15 @@
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/bin/Debug/net10.0/TodoApp.Infrastructure.deps.json
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/bin/Debug/net10.0/TodoApp.Infrastructure.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/bin/Debug/net10.0/TodoApp.Infrastructure.pdb
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/bin/Debug/net10.0/TodoApp.Domain.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/bin/Debug/net10.0/TodoApp.Domain.pdb
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.csproj.AssemblyReference.cache
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.AssemblyInfoInputs.cache
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.AssemblyInfo.cs
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp..D6B2378B.Up2Date
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/obj/Debug/net10.0/refint/TodoApp.Infrastructure.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.pdb
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/obj/Debug/net10.0/ref/TodoApp.Infrastructure.dll

@@ -1,0 +1,11 @@
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/bin/Debug/net10.0/TodoApp.Domain.deps.json
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/bin/Debug/net10.0/TodoApp.Domain.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/bin/Debug/net10.0/TodoApp.Domain.pdb
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/obj/Debug/net10.0/TodoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/obj/Debug/net10.0/TodoApp.Domain.AssemblyInfoInputs.cache
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/obj/Debug/net10.0/TodoApp.Domain.AssemblyInfo.cs
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/obj/Debug/net10.0/TodoApp.Domain.csproj.CoreCompileInputs.cache
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/obj/Debug/net10.0/TodoApp.Domain.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/obj/Debug/net10.0/refint/TodoApp.Domain.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/obj/Debug/net10.0/TodoApp.Domain.pdb
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/obj/Debug/net10.0/ref/TodoApp.Domain.dll
