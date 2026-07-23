@@ -8,10 +8,22 @@
     ".NETCoreApp,Version=v10.0": {
       "TodoApp.Infrastructure/1.0.0": {
         "dependencies": {
+          "TodoApp.Application": "1.0.0",
           "TodoApp.Domain": "1.0.0"
         },
         "runtime": {
           "TodoApp.Infrastructure.dll": {}
+        }
+      },
+      "TodoApp.Application/1.0.0": {
+        "dependencies": {
+          "TodoApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TodoApp.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TodoApp.Domain/1.0.0": {
@@ -26,6 +38,11 @@
   },
   "libraries": {
     "TodoApp.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoApp.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -11,19 +11,6 @@
         "runtime": {
           "bin/placeholder/TodoApp.Domain.dll": {}
         }
-      },
-      "TodoApp.Infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
-        "dependencies": {
-          "TodoApp.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/TodoApp.Infrastructure.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/TodoApp.Infrastructure.dll": {}
-        }
       }
     }
   },
@@ -32,17 +19,11 @@
       "type": "project",
       "path": "../TodoApp.Domain/TodoApp.Domain.csproj",
       "msbuildProject": "../TodoApp.Domain/TodoApp.Domain.csproj"
-    },
-    "TodoApp.Infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../TodoApp.Infrastructure/TodoApp.Infrastructure.csproj",
-      "msbuildProject": "../TodoApp.Infrastructure/TodoApp.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "TodoApp.Domain >= 1.0.0",
-      "TodoApp.Infrastructure >= 1.0.0"
+      "TodoApp.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -73,9 +54,6 @@
           "projectReferences": {
             "/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/TodoApp.Domain.csproj": {
               "projectPath": "/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/TodoApp.Domain.csproj"
-            },
-            "/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/TodoApp.Infrastructure.csproj": {
-              "projectPath": "/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/TodoApp.Infrastructure.csproj"
             }
           }
         }

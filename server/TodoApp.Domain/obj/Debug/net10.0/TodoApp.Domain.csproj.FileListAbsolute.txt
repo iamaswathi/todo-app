@@ -9,3 +9,4 @@
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/obj/Debug/net10.0/refint/TodoApp.Domain.dll
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/obj/Debug/net10.0/TodoApp.Domain.pdb
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/obj/Debug/net10.0/ref/TodoApp.Domain.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Domain/obj/Debug/net10.0/TodoApp.Domain.sourcelink.json

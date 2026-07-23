@@ -13,3 +13,6 @@
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/obj/Debug/net10.0/refint/TodoApp.Infrastructure.dll
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.pdb
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/obj/Debug/net10.0/ref/TodoApp.Infrastructure.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.sourcelink.json
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/bin/Debug/net10.0/TodoApp.Application.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Infrastructure/bin/Debug/net10.0/TodoApp.Application.pdb

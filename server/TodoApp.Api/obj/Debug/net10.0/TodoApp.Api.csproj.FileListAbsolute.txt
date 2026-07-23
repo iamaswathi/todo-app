@@ -8,10 +8,8 @@
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/bin/Debug/net10.0/TodoApp.Api.pdb
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/bin/Debug/net10.0/TodoApp.Application.dll
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/bin/Debug/net10.0/TodoApp.Domain.dll
-/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/bin/Debug/net10.0/TodoApp.Infrastructure.dll
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/bin/Debug/net10.0/TodoApp.Application.pdb
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/bin/Debug/net10.0/TodoApp.Domain.pdb
-/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/bin/Debug/net10.0/TodoApp.Infrastructure.pdb
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/obj/Debug/net10.0/TodoApp.Api.csproj.AssemblyReference.cache
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/obj/Debug/net10.0/rpswa.dswa.cache.json
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/obj/Debug/net10.0/TodoApp.Api.GeneratedMSBuildEditorConfig.editorconfig
@@ -34,3 +32,11 @@
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/obj/Debug/net10.0/TodoApp.Api.pdb
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/obj/Debug/net10.0/TodoApp.Api.genruntimeconfig.cache
 /Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/obj/Debug/net10.0/ref/TodoApp.Api.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/obj/Debug/net10.0/TodoApp.Api.sourcelink.json
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/bin/Debug/net10.0/TodoApp.Infrastructure.dll
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/bin/Debug/net10.0/TodoApp.Infrastructure.pdb
+/Users/aswathiprakash/Documents/todo_app_360degree/server/TodoApp.Api/obj/Debug/net10.0/TodoApp.Api.MvcApplicationPartsAssemblyInfo.cs
