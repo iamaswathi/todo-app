@@ -1,0 +1,17 @@
+<h2> My Todos</h2>
+<app-add-todo [isSubmitting]="isSubmitting()" (add)="onAdd($event)"></app-add-todo>
+
+<p *ngIf="isLoading()">Loading ...</p>
+<p *ngIf="successMessage()" class="success">{{ successMessage() }}</p>
+<p *ngIf="errorMessage()" class="error">{{ errorMessage() }}</p>
+
+<ul *ngIf="!isLoading()">
+    <app-todo-item
+        *ngFor="let todo of todos()"
+        [todo]="todo"
+        [isDeleting]="isDeleting() === todo.id"
+        (delete)="onDelete($event)">
+    </app-todo-item>
+</ul>
+
+<p *ngIf="!isLoading() && todos().length === 0">No Todos yet, add one above.</p>

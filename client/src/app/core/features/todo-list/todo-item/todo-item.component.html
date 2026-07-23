@@ -1,0 +1,6 @@
+<li>
+    <span>{{ todo.title }}</span>
+    <button (click)="delete.emit(todo.id)" [disabled]="isDeleting">
+        {{ isDeleting ? 'Deleting' : 'Delete' }}
+    </button>
+</li>

@@ -1,0 +1,41 @@
+.success,
+.error {
+    font-size: 0.9rem;
+    padding: 10px 14px;
+    border-radius: 6px;
+    margin-bottom: 16px;
+}
+
+.success{
+    background: #f0f9f1;
+    color: #2d6a31;
+    border: 1ps solid #d4ecd6;
+}
+
+.error {
+    background: #fdf1f0;
+    color: #a93226;
+    border: 1ps solid #f5d5d2;
+}
+
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0 0 24px;
+    color: #1a1a1a;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+p {
+    color: #888;
+    font-size: 0.9rem;
+}

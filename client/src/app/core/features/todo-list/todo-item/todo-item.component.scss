@@ -1,0 +1,37 @@
+li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 14px;
+    border: 1px solid #eeeeee;
+    border-radius: 6px;
+    background: #ffffff;
+}
+
+span {
+    font-size: 0.95rem;
+    color: #1a1a1a;
+}
+
+button {
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 0.85rem;
+    color: #666666;
+    background: #ffffff;
+    cursor: pointer;
+    padding: 12px 14px;
+    transition: all 0.15s ease;
+
+    &:hover:not(:disabled) {
+        border-color: #a93226;
+        color: #a93226;
+    }
+
+    &:disabled {
+        color: #cccccc;
+        border-color: #eeeeee;
+        cursor: not-allowed;
+    }
+}
