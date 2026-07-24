@@ -67,7 +67,7 @@ export class TodoListComponent implements OnInit {
     this.successMessage.set('');
     this.toDoService.delete(id).subscribe({
       next: () => {
-        this.successMessage.set('ToDo deleted successfully');
+        this.successMessage.set('ToDo deleted successfully.');
         this.isDeleting.set(null);
         this.loadTodos();
         this.clearMessageAfterDelay();
