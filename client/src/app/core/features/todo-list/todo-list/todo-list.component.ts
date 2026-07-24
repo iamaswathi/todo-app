@@ -27,6 +27,9 @@ export class TodoListComponent implements OnInit {
     this.loadTodos();
   }
 
+  /**
+   * Loads the list of todos
+   */
   loadTodos(): void {
     this.isLoading.set(true);
     this.toDoService.getAll().subscribe({
@@ -43,6 +46,11 @@ export class TodoListComponent implements OnInit {
     });
   }
 
+  /**
+   * Called when user try to add a new todo item.
+   * the existing todo list gets updated once the new item is added succefully, else throws an error
+   * @param title 
+   */
   onAdd(title: string): void {
     this.isSubmitting.set(true);
     this.errorMessage.set('');
@@ -61,6 +69,10 @@ export class TodoListComponent implements OnInit {
     });
   }
 
+  /**
+   * 
+   * @param id Called when the user deletes any todo item
+   */
   onDelete(id: string): void {
     this.isDeleting.set(id);
     this.errorMessage.set('');
@@ -79,6 +91,9 @@ export class TodoListComponent implements OnInit {
     });
   }
 
+  /**
+   * Removes the message display after 3 seconds
+   */
   private clearMessageAfterDelay (): void {
     setTimeout(() => (this.successMessage.set('')), 3000);
   }

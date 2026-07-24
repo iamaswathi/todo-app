@@ -13,11 +13,14 @@ export class AddTodoComponent {
   @Input() isSubmitting = false;
   @Output() add = new EventEmitter<string>();
 
+  /**
+   * Function to send a trimmed title
+   * @returns 
+   */
   submit(): void {
     const trimmedTitle = this.title.trim();
     if(!trimmedTitle || this.isSubmitting) return;
     this.add.emit(trimmedTitle);
     this.title = "";
-
   }
 }

@@ -1,4 +1,6 @@
 <form (ngSubmit)="submit()">
     <input [(ngModel)]="title" name="title" placeholder="Add a new Todo" [disabled]="isSubmitting"/>
-    <button type="submit" [disabled]="isSubmitting">{{ isSubmitting ? 'Adding ...' : 'Add ToDo' }}</button>
-    </form>
+    <button type="submit" [disabled]="isSubmitting">
+        {{ isSubmitting ? 'Adding ...' : 'Add ToDo' }}
+    </button>
+</form>
